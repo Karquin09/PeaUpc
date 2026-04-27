@@ -1,0 +1,11 @@
+id;tipo;titulo;anio;autores;categoria;grupo_codigo;investigador_cvlac;validado;estado
+P0001;Artículo de investigación;Modelo de IA para predicción del dengue en el Cesar;2023;Juan Pérez|Carla Gómez;A;COL0012345;0000494917;true;activo
+P0002;Libro resultado de investigación;Energías renovables en La Guajira;2022;Luis Romero;B;COL0012345;;true;activo
+P0003;Capítulo de libro;Big Data aplicado al agro del Caribe;2024;Ana Martínez|Pedro López;C;COL0099887;0000123456;false;activo
+P0004;Software;Sistema PEA para la UPC;2025;Equipo Estructura de Datos|Juan Pérez;Sin categoría;COL0099887;0000494917;false;activo
+P0005;Ponencia;Redes neuronales en la clasificación de café;2021;Pedro López;B;COL0012345;0000494917;true;activo
+P0006;Tesis de maestría dirigida;Optimización de rutas de transporte en Valledupar;2020;Diego Hernández;A1;COL0099887;;true;activo
+P0007;Artículo de investigación;Ciberseguridad en instituciones educativas del Caribe;2024;María Cabrera|Ana Martínez;A;COL0099887;0000123456;true;activo
+P0008;Producto tecnológico;Dispositivo IoT para monitoreo de cultivos;2023;Laura Cárdenas;B;COL0012345;;false;activo
+P0009;Artículo de investigación;Aprendizaje automático en agricultura de precisión;2022;Juan Pérez|Laura Cárdenas;A;COL0012345;0000494917;true;activo
+P0010;Ponencia;Dashboards educativos con Python;2024;Estudiantes UPC;C;COL0099887;0000123456;false;activo
